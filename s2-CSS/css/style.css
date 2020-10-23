@@ -1,0 +1,46 @@
+header {
+    background-color: cyan;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: darkorange;
+    border: 1px solid lightgreen;
+    border-radius: 5px;
+}
+
+aside {
+    background-color: orange;
+    border: 1px solid red;
+    border-radius: 5px;
+    display: inline-block;
+    width: 19.2%;
+    height: 30px;
+}
+
+main {
+    background-color: red;
+    border: 1px solid blue;
+    border-radius: 5px;
+    display: inline-block;
+    width: 50%;
+}
+
+article {
+    background-color: yellow;
+    border: 1px solid coral;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: cyan;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+strong {
+    background-color: red;
+}
